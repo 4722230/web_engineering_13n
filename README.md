@@ -1,4 +1,4 @@
 # スキー板
 
--id one
--Rossingnol
+- id one
+- Rossingnol
